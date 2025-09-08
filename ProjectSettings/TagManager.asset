@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Projectile
+  - EnemyProjectile
+  - XPItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerAttack
+  - EnemyAttack
+  - Item
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1177086059
+    locked: 0
+  - name: Ground
+    uniqueID: 3228595635
+    locked: 0
+  - name: 'Props '
+    uniqueID: 3738746169
+    locked: 0
+  - name: Shadows
+    uniqueID: 3335567811
+    locked: 0
+  - name: Pickups
+    uniqueID: 1181389087
+    locked: 0
+  - name: Enemies
+    uniqueID: 1333205895
+    locked: 0
+  - name: Player
+    uniqueID: 531655535
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1410212261
+    locked: 0
+  - name: Effects
+    uniqueID: 2151210657
+    locked: 0
+  - name: UI
+    uniqueID: 3655423355
+    locked: 0
